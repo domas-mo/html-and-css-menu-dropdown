@@ -31,6 +31,12 @@
     width: 100%;
 }
 
+.nav__link:hover {
+    color: var(--color-beta);
+    transform: scale(1.1);
+    transition: 0.3s ease-in;
+}
+
 .nav__item:hover > .nav__dropdown {
     display: block;
 }
