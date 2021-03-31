@@ -1,6 +1,8 @@
 :root {
-    --color-alfa: rgb(220, 220, 220);
-    --color-beta: rgb(0, 200, 250);
+    --color-alfa: rgb(216, 172, 156);
+    --color-beta: rgb(239, 217, 209);
+    --color-gamma: rgb(153, 155, 132);
+    --color-delta: rgb(244, 238, 237);
 }
 
 .nav {
